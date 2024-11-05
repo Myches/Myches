@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hello , I'm Michael a self-taught frontend developer that specialize in building web interfaces with frontend framework such as React with Typescript / JavaScript. I enjoy working with teams to deliver high quality user interfaces and also stay updated with latest development in frontend development through courses and self-learning. I'm open to new opportunities both locally and remote.
+Hello , I'm Michael a frontend developer that specialize in building web interfaces with frontend framework such as React with Typescript / JavaScript. I enjoy working with teams to deliver high quality user interfaces and also stay updated with latest development in frontend development through courses and self-learning. I'm open to new opportunities both locally and remote.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [andorfulmichaelebo@gmail.com](mailto:andorfulmichaelebo@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Node js with express
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
