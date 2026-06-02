@@ -1,10 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Ebo Andorful
 ============================================================================================================================================
 
-Frontend Developer
+Cloud Engineering 
 ------------------
 
-Hello , I'm Michael a frontend developer that specialize in building web interfaces with frontend framework such as React with Typescript / JavaScript. I enjoy working with teams to deliver high quality user interfaces and also stay updated with latest development in frontend development through courses and self-learning. I'm open to new opportunities both locally and remote.
+Hello, I’m Michael Ebo Andorful, a cloud engineer with a strong focus on cloud-native application deployment and scalable system design. I work with AWS services and have hands-on experience with CI/CD pipelines, cloud infrastructure concepts, and deploying production-ready applications. I’m actively developing my expertise in DevOps practices and cloud-based architectures to build efficient, reliable, and scalable solutions.
+
+In addition to cloud engineering, I am a frontend developer experienced in building modern, responsive web interfaces using React with TypeScript and JavaScript.
+
+I enjoy working in collaborative teams to deliver high-quality, user-focused products that are both visually strong and well-architected from a cloud perspective.
+
+I’m open to new opportunities, both locally and remotely.
+
+
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [andorfulmichaelebo@gmail.com](mailto:andorfulmichaelebo@gmail.com)
